@@ -1,0 +1,46 @@
+/* external */
+/* least priority */
+/* selectors
+    element or tag
+    id
+    class
+    border
+*/
+b {
+    color: red;
+    background-color: yellow;
+}
+
+#home {
+    color: yellow; 
+    background-color: red;
+}
+
+.menu-item { 
+    width:100px;
+    height:30px;
+    list-style-type:none;
+    display: inline-block;
+    /* border:1px solid black; */
+    /* top bottom left and right */
+    /* ctrl + / */
+    /* margin-left: 10px;
+    margin-top: 10px; */
+    /* margin-bottom: 10px;
+    margin-right: 10px; */
+    /* margin:10px ; */
+    margin: 10px 0px 0px 10px;
+   border: 1px solid grey;
+
+}
+
+.menu-item a {
+    color: red;
+    text-decoration:line-through;
+}
+/* eclipse */
+/*  R G B  */
+/* 0-255 */
+/* 0 1 base 2*/
+/* 0-9 base 10 */
+/* 0-15 0,1,2,9,a,b,c,d,e,f base 16 */
