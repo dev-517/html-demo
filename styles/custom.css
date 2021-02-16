@@ -6,3 +6,8 @@
     border-radius: 25px;
     font-size: normal;
 }
+
+
+.navbar a, .navbar .nav-item{
+    color:#fff;
+}
