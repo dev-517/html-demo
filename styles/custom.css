@@ -7,7 +7,18 @@
     font-size: normal;
 }
 
+.navbar-brand, .nav-link{
+    color: #fff !important;
+}
+.navbar-brand{
+    font-size: 20px;
+}
 
-.navbar a, .navbar .nav-item{
-    color:#fff;
+.parent{
+    font-size:20px;
+}
+
+/* relative font size */
+.child{
+    font-size: 1em;
 }
